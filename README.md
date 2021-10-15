@@ -1,6 +1,6 @@
 
 # APIURCA
-An API which use Web Scrapping do get informations ( Timetable, Grades ... ) 
+An API which use Web Scrapping to get informations ( Timetable, Grades ... ) 
 
 It use `PHP` as main language.
 
