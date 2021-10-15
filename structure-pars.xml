@@ -1,0 +1,24 @@
+<event id="88923" timesort="14001600" colour="BFFFFF" date="06/09/2021" ecs="56" ecc="16" er="0">
+    <day>0</day>
+    <prettytimes>14:00-16:00 [CM]</prettytimes>
+    <starttime>14:00</starttime>
+    <endtime>16:00</endtime>
+    <category>[CM]</category>
+    <prettyweeks></prettyweeks>
+    <rawweeks>NNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+    <resources>
+       <module>
+         <item><a href="m64536.html">INFO0305</a></item>
+        </module>
+        <group>
+            <item><a href="g38223.html">CMIIS3</a></item>
+            <item><a href="g41044.html">S1A6D</a></item>
+            <item><a href="g36353.html">S3F3</a></item>
+            <item><a href="g36354.html">S3F4</a></item>
+            <item><a href="g40928.html">S3F5</a></item>
+        </group>
+        <room>
+            <item>amphi 4 (Moulin de la Housse (SEN, STAPS))</item>
+        </room>
+    </resources>
+</event>
