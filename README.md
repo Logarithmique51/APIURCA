@@ -168,7 +168,7 @@ You have the choice between 4 actions :
 {
     "Login" : "myLogin",
     "Password" : "myPassword",
-    "Action" : "grades",
+    "Action" : "timetable",
     "Data" : {
         "Day":12,
         "Month":10,
